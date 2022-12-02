@@ -1,9 +1,0 @@
-rcis_ep_task_one1/
-rcis_ep_task_one2/
-rcis_ep_task_one3/
-.vscode
-.dart_tool
-lib/
-test/
-.packages/
-build/
