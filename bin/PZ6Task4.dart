@@ -16,7 +16,9 @@ void main() {
       break;
     }
     else {
-      sum = sum + x;
+      if (x % a == 0) {
+        sum = sum + x;
+      }
     }
   }
   print(sum);
